@@ -1,0 +1,12 @@
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\bin\Debug\netcoreapp3.1\Lektion4Typen.exe
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\bin\Debug\netcoreapp3.1\Lektion4Typen.deps.json
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\bin\Debug\netcoreapp3.1\Lektion4Typen.runtimeconfig.json
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\bin\Debug\netcoreapp3.1\Lektion4Typen.runtimeconfig.dev.json
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\bin\Debug\netcoreapp3.1\Lektion4Typen.dll
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\bin\Debug\netcoreapp3.1\Lektion4Typen.pdb
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\obj\Debug\netcoreapp3.1\Lektion4Typen.AssemblyInfoInputs.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\obj\Debug\netcoreapp3.1\Lektion4Typen.AssemblyInfo.cs
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\obj\Debug\netcoreapp3.1\Lektion4Typen.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\obj\Debug\netcoreapp3.1\Lektion4Typen.dll
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\obj\Debug\netcoreapp3.1\Lektion4Typen.pdb
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion4Typen\obj\Debug\netcoreapp3.1\Lektion4Typen.genruntimeconfig.cache

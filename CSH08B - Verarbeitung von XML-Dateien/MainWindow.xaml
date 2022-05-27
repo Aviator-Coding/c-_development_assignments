@@ -1,0 +1,40 @@
+﻿<Window x:Class="Lektion___03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lektion___03"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="856.098" Width="800">
+    <Grid>
+        <StatusBar HorizontalAlignment="Left" Margin="10,771,0,10" Width="772">
+            <Label Name="statusBarText" Content="Label" Height="30" Width="772"/>
+        </StatusBar>
+        <Button Name="parent" Content="parent" HorizontalAlignment="Left" Margin="530,21,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="parent_Click" />
+        <Button Name="child" Content="child" HorizontalAlignment="Left" Margin="530,182,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="child_Click"/>
+        <Button Name="next" Content="next" HorizontalAlignment="Left" Margin="673,104,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="next_Click"/>
+        <Button Name="previous" Content="previous" HorizontalAlignment="Left" Margin="381,104,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="previous_Click"/>
+        <Button Name="x" Content="x" HorizontalAlignment="Left" Margin="530,104,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="x_Click"/>
+        <TextBox Name="tbAusgabe" HorizontalAlignment="Left" Height="365" Margin="10,10,0,0" VerticalAlignment="Top" Width="366"/>
+        <Button Name="btnChilds" Content="childs" HorizontalAlignment="Left" Margin="518,262,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnChilds_Click"/>
+        <Button Name="btnTagName" Content="by Tagname" HorizontalAlignment="Left" Margin="518,405,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnTagName_Click"/>
+        <Button Name="btnRoot" Content="root" HorizontalAlignment="Left" Margin="518,490,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnRoot_Click"/>
+        <Button Name="btnClose" Content="Beenden" HorizontalAlignment="Left" Margin="518,577,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnClose_Click"/>
+        <TextBox Name="tbByTagName" HorizontalAlignment="Left" Height="34" Margin="518,341,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnElementChild" Content="Child" HorizontalAlignment="Left" Margin="33,471,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnElementChild_Click"/>
+        <Button x:Name="btnElementBefore" Content="Before" HorizontalAlignment="Left" Margin="189,471,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnElementBefore_Click"/>
+        <Button x:Name="btnElemenAfter" Content="After" HorizontalAlignment="Left" Margin="335,471,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnElemenAfter_Click"/>
+        <Button x:Name="btnText" Content="Text" HorizontalAlignment="Left" Margin="33,556,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnText_Click"/>
+        <Button x:Name="btnCData" Content="CData" HorizontalAlignment="Left" Margin="189,556,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnCData_Click"/>
+        <Button x:Name="btnErsetzen" Content="Ersetzen" HorizontalAlignment="Left" Margin="335,556,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnErsetzen_Click"/>
+        <Button x:Name="btnAttribute" Content="Attribute" HorizontalAlignment="Left" Margin="33,643,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnAttribute_Click"/>
+        <Button x:Name="btnEntfernen" Content="Entfernen" HorizontalAlignment="Left" Margin="189,643,0,0" VerticalAlignment="Top" Width="120" Height="50" Click="btnEntfernen_Click"/>
+        <Label Content="Element hinzufuegen" HorizontalAlignment="Left" Margin="33,446,0,0" VerticalAlignment="Top" Width="407"/>
+        <Label Content="Text, Cdata einfuegen/ersetzen" HorizontalAlignment="Left" Margin="33,526,0,0" VerticalAlignment="Top" Width="407"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="33,611,0,0" VerticalAlignment="Top" Width="407"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Height="34" Margin="42,721,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183"/>
+        <TextBox x:Name="tbValue" HorizontalAlignment="Left" Height="34" Margin="253,721,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="202"/>
+        <TextBox x:Name="tbEingabe" HorizontalAlignment="Left" Height="34" Margin="33,405,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="422"/>
+
+    </Grid>
+</Window>

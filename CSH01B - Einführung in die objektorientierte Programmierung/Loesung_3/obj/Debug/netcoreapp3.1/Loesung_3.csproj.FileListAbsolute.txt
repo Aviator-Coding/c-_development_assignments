@@ -1,0 +1,12 @@
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\bin\Debug\netcoreapp3.1\Loesung_3.exe
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\bin\Debug\netcoreapp3.1\Loesung_3.deps.json
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\bin\Debug\netcoreapp3.1\Loesung_3.runtimeconfig.json
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\bin\Debug\netcoreapp3.1\Loesung_3.runtimeconfig.dev.json
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\bin\Debug\netcoreapp3.1\Loesung_3.dll
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\bin\Debug\netcoreapp3.1\Loesung_3.pdb
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\obj\Debug\netcoreapp3.1\Loesung_3.AssemblyInfoInputs.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\obj\Debug\netcoreapp3.1\Loesung_3.AssemblyInfo.cs
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\obj\Debug\netcoreapp3.1\Loesung_3.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\obj\Debug\netcoreapp3.1\Loesung_3.dll
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\obj\Debug\netcoreapp3.1\Loesung_3.pdb
+D:\CSharp\CSH-Lehrgang\CSH01\Loesung_3\obj\Debug\netcoreapp3.1\Loesung_3.genruntimeconfig.cache

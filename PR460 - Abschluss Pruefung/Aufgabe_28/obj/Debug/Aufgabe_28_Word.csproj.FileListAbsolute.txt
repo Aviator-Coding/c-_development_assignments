@@ -1,0 +1,15 @@
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\bin\Debug\Aufgabe_28.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\bin\Debug\Aufgabe_28.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\bin\Debug\Aufgabe_28.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\MainWindow.g.cs
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\App.g.cs
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28_MarkupCompile.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28_MarkupCompile.lref
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\MainWindow.baml
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28.g.resources
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28.Properties.Resources.resources
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28_Word.csproj.GenerateResource.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28_Word.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_28\obj\Debug\Aufgabe_28_Word.csprojAssemblyReference.cache

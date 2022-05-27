@@ -1,0 +1,16 @@
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\IO_Filesystem_01.exe
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\IO_Filesystem_01.deps.json
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\IO_Filesystem_01.runtimeconfig.json
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\IO_Filesystem_01.runtimeconfig.dev.json
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\IO_Filesystem_01.dll
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\ref\IO_Filesystem_01.dll
+D:\CSharp\CSH03\IO_Filesystem_01\bin\Debug\net5.0\IO_Filesystem_01.pdb
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.csprojAssemblyReference.cache
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.AssemblyInfo.cs
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.dll
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\ref\IO_Filesystem_01.dll
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.pdb
+D:\CSharp\CSH03\IO_Filesystem_01\obj\Debug\net5.0\IO_Filesystem_01.genruntimeconfig.cache

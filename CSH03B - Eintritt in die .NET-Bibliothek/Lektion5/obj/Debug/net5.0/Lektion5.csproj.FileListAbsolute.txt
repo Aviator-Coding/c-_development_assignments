@@ -1,0 +1,17 @@
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\Lektion5.exe
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\init\LH 3000.init
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\init\LH 500.init
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\Lektion5.deps.json
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\Lektion5.runtimeconfig.json
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\Lektion5.runtimeconfig.dev.json
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\Lektion5.dll
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\ref\Lektion5.dll
+D:\CSharp\CSH03\Lektion5\bin\Debug\net5.0\Lektion5.pdb
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.AssemblyInfo.cs
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.dll
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\ref\Lektion5.dll
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.pdb
+D:\CSharp\CSH03\Lektion5\obj\Debug\net5.0\Lektion5.genruntimeconfig.cache

@@ -1,0 +1,71 @@
+﻿<Window x:Class="Lektion3_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lektion3_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <DataTemplate x:Key="meinTemplate">
+            <DockPanel>
+                <TextBox  Text="{Binding name}" FontWeight="Bold" DockPanel.Dock="Left" Width="85" />
+                <TextBlock Text="{Binding beschreibung}" FontWeight="Thin" Width="90" />
+                <TextBox  Text="Menge" FontWeight="Bold" DockPanel.Dock="Left" Width="85" />
+                <TextBlock Text="{Binding menge}" FontWeight="Thin" Width="90" />
+            </DockPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="350" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0">
+            <Label Name="lblPersonen" Width="300" FontWeight="Bold" Content="Personen"/>
+            <ComboBox Name="cbPersonen" SelectedIndex="0" Width="300" Margin="0,20,0,20" SelectionChanged="selectedItem_Changed" />
+            <StackPanel Orientation="Vertical" DataContext="{Binding SelectedItem, ElementName=cbPersonen}">
+                <DockPanel Width="300">
+                    <Label Name="lblVorname" DockPanel.Dock="Left" Width="100" Height="30" Content="Vorname:"/>
+                    <TextBox Name="tbVorname" DockPanel.Dock="Right" Width="100" Height="30" Text="{Binding vorname}"/>
+                </DockPanel>
+                <DockPanel Width="300">
+                    <Label Name="lblNachname" DockPanel.Dock="Left" Width="100" Height="30" Content="Nachname:"/>
+                    <TextBox Name="tbNachname" DockPanel.Dock="Right" Width="100" Height="30" Text="{Binding nachname}"/>
+                </DockPanel>
+                <DockPanel Width="300">
+                    <Label Name="lblStrasse" DockPanel.Dock="Left" Width="100" Height="30" Content="Strasse:"/>
+                    <TextBox Name="tbStrasse" DockPanel.Dock="Right" Width="100" Height="30" Text="{Binding strasse}"/>
+                </DockPanel>
+                <DockPanel Width="300">
+                    <Label Name="lblHausnummer" DockPanel.Dock="Left" Width="100" Height="30" Content="Hausnummer:"/>
+                    <TextBox Name="tbSHausnummer" DockPanel.Dock="Right" Width="100" Height="30" Text="{Binding hausnummer}"/>
+                </DockPanel>
+                <DockPanel Width="300">
+                    <Label Name="lblOrt" DockPanel.Dock="Left" Width="100" Height="30" Content="Ort:"/>
+                    <TextBox Name="tbOrt" DockPanel.Dock="Right" Width="100" Height="30" Text="{Binding ort}"/>
+                </DockPanel>
+                <DockPanel Width="300">
+                    <Label Name="lblTelefon" DockPanel.Dock="Left" Width="100" Height="30" Content="Telefon:"/>
+                    <TextBox Name="tbTelefon" DockPanel.Dock="Right" Width="100" Height="30" Text="{Binding telefon}"/>
+                </DockPanel>
+            </StackPanel>
+            
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <Label Name="lblListBestellungen" FontWeight="Bold" FontSize="16">Liste der Bestellungen</Label>
+            <ListBox Name="lbBestellungen" Width="300" Height="220" ItemTemplate="{StaticResource meinTemplate}"  />
+        </StackPanel>
+        <DockPanel Grid.Row="1" Grid.Column="1" Margin="0,0,20,0" LastChildFill="False">
+            <Button DockPanel.Dock="Right" Name="btnBeenden" Width="100" Height="30" Click="Button_click_close" Content="Close"/>
+        </DockPanel>
+        <DockPanel Grid.Column="0" Grid.Row="1" LastChildFill="False" Margin="20, 0, 0,0">
+            <Button Margin="20,0,0,0" Name="btnLieferanten" Width="100" Height="30" Click="Button_click_lieferant" Content="Lieferant"/>
+            <Button Margin="20,0,0,0" Name="btnArtikel" Width="100" Height="30" Click="btnArtikel_Click" Content="Artikel"/>
+        </DockPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\disk.png" />
+    <None Remove="Icons\folder_explore.png" />
+    <None Remove="Icons\information.png" />
+    <None Remove="Icons\page_add.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\disk.png" />
+    <Resource Include="Icons\folder_explore.png" />
+    <Resource Include="Icons\information.png" />
+    <Resource Include="Icons\page_add.png" />
+  </ItemGroup>
+
+</Project>

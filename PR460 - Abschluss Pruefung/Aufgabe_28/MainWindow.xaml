@@ -1,0 +1,35 @@
+﻿<Window x:Class="Aufgabe_28.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aufgabe_28"
+        mc:Ignorable="d"
+        KeyDown="Window_KeyDown"
+        Title="MyWord" Height="711.978" Width="877.716">
+    <Window.InputBindings>
+        <KeyBinding Modifiers="Control" Key="S" />
+    </Window.InputBindings>
+    <DockPanel LastChildFill="True" Height="Auto" HorizontalAlignment="Stretch">
+        <Menu DockPanel.Dock="Top" Padding="5">
+            <MenuItem Header="Datei">
+                <MenuItem Header="Neu" InputGestureText="Ctrl+N" Click="mFileNew"/>
+                <MenuItem Header="Oeffnen" InputGestureText="Ctrl+O" Click="mFileOpen"/>
+                <MenuItem Header="Speichern unter..." InputGestureText="Ctrl+U" Click="mFileSaveAs"/>
+                <MenuItem Header="Speichern" InputGestureText="Ctrl+S" Click="mFileSave"/>
+                <Separator/>
+                <MenuItem Header="Schliessen" Click="mClick_Close_Window" />
+            </MenuItem>
+            <MenuItem Header="Bearbeiten">
+                <MenuItem Header="Einfuegen" InputGestureText="Ctrl+V"/>
+                <MenuItem Header="Kopieren" InputGestureText="Ctrl+C"/>
+                <MenuItem Header="Aussschneiden" InputGestureText="Ctrl+X"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Height="30" DockPanel.Dock="Bottom" Orientation="Horizontal">
+            <Label Content="Status:" FontWeight="Bold" Width="50"/>
+            <Label Name="LStatusBar" Content="Welcome to MyWord"/>
+        </StackPanel>
+        <RichTextBox Name="RTextEditor" Height="Auto" Margin="10" KeyUp="RichTextUpdate"></RichTextBox>
+    </DockPanel>
+</Window>

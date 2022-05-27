@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kartei PUBLIC "Kartei.dtd" "Kartei.dtd">
+<!-- XML Knoten -->
+<kartei>
+    <karte sachgebiet="XML">
+        <stichwort>XML-Element</stichwort>
+        <abstract>
+            <![CDATA[
+				<name>Start-Tag - Inhalt - End-Tag</name>
+			]]>
+        </abstract>
+        <autor>&autor;</autor>
+    </karte>
+</kartei>

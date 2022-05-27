@@ -1,0 +1,16 @@
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\delegate_02.exe
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\delegate_02.deps.json
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\delegate_02.runtimeconfig.json
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\delegate_02.runtimeconfig.dev.json
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\delegate_02.dll
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\ref\delegate_02.dll
+D:\CSharp\CSH03\delegate_02\bin\Debug\net5.0\delegate_02.pdb
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.csprojAssemblyReference.cache
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.AssemblyInfo.cs
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.dll
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\ref\delegate_02.dll
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.pdb
+D:\CSharp\CSH03\delegate_02\obj\Debug\net5.0\delegate_02.genruntimeconfig.cache

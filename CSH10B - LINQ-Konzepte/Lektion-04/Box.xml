@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE box SYSTEM "Box.dtd">
+<!-- erste Karte -->
+<box>
+<card subject="XML">
+<keyword>DTD</keyword>
+<keyword>Wikipedia</keyword>
+<abstract>Wie erstellt man eine DTD?</abstract>
+<content type="titel">Erst Struktur planen, dann umsetzen</content>
+<content type="text">Nicht immer reicht eine Anleitung aus, die in Wikipedia steht:</content>
+<content type="quote">Eine Dokumenttypdefinition (englisch Document Type Definition, DTD, auch Schema-Definition oder DOCTYPE) ist ein Satz an Regeln, der benutzt wird, um Dokumente eines bestimmten Typs zu deklarieren.</content>
+<content type="url">http://de.wikipedia.org/wiki/ Dokumenttypdefinition</content>
+<source>Web</source>
+<createDate>20.05.2010</createDate>
+<date>20.05.2010</date>
+</card>
+</box>

@@ -1,0 +1,9 @@
+﻿zielPos.x=1000
+zielPos.y=500
+zielPos.h=200
+streckeProTakt=200
+flughoehe=300
+steighoeheProTakt=20
+sinkhoeheProTakt=10
+typ=3
+sitzplaetze=250

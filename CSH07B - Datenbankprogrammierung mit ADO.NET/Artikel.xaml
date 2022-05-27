@@ -1,0 +1,67 @@
+﻿<Window x:Class="Lektion3_2.Artikel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lektion3_2"
+        mc:Ignorable="d"
+        Title="Artikel" Height="450" Width="800">
+    <Window.Resources>
+        <DataTemplate x:Key="artikelTemplate">
+            <DockPanel>
+                <TextBlock Text="{Binding name}" FontWeight="Bold" DockPanel.Dock="Left" Width="85" />
+                <TextBlock Text="{Binding beschreibung}" FontWeight="Thin" Width="90" />
+                <TextBlock Text="{Binding farbe}" FontWeight="Bold" Width="50" />
+                <TextBlock Text="{Binding groesse}" FontWeight="Bold" Width="70" />
+                <TextBlock Text="{Binding menge}" FontWeight="Bold" Width="50" />
+                <TextBlock Text="{Binding preis}" FontWeight="Bold" Width="90" />
+            </DockPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="350"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox Name="cbArtikel" Grid.Row="0" Grid.Column="0" DataContext="{Binding ElementName=cbArtikel}" ItemTemplate="{StaticResource artikelTemplate}" SelectionChanged="cbArtikel_SelectionChanged"/>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <Label Content="Artikel hinzufuegen" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,20,0,10" FontSize="25"/>
+            <StackPanel Orientation="Vertical" DataContext="{Binding SelectedItem, ElementName=cbArtikel}">
+                <DockPanel>
+                    <Label DockPanel.Dock="Left" Width="150" Name="lblName" Content="Name"/>
+                    <TextBox Margin="0,0,10,0" DockPanel.Dock="Right" Name="tbName" Text="{Binding name}"/>
+                </DockPanel>
+                <DockPanel Margin="0,4,0,0">
+                    <Label DockPanel.Dock="Left" Width="150" Name="lblBeschreibung" Content="Beschreibung"/>
+                    <TextBox Margin="0,0,10,0" DockPanel.Dock="Right" Name="tbBeschreibung" Text="{Binding beschreibung}"/>
+                </DockPanel>
+                <DockPanel Margin="0,4,0,0">
+                    <Label DockPanel.Dock="Left" Width="150" Name="lblGroesse" Content="Groesse"/>
+                    <TextBox Margin="0,0,10,0" DockPanel.Dock="Right" Name="tbGroesse" Text="{Binding groesse}"/>
+                </DockPanel>
+                <DockPanel Margin="0,4,0,0">
+                    <Label DockPanel.Dock="Left" Width="150" Name="lblFarbe" Content="Farbe"/>
+                    <TextBox Margin="0,0,10,0" DockPanel.Dock="Right" Name="tbFarbe" Text="{Binding farbe}"/>
+                </DockPanel>
+                <DockPanel Margin="0,4,0,0">
+                    <Label DockPanel.Dock="Left" Width="150" Name="lblMenge" Content="Menge"/>
+                    <TextBox Margin="0,0,10,0" DockPanel.Dock="Right" Name="tbMenge" Text="{Binding menge}"/>
+                </DockPanel>
+                <DockPanel Margin="0,4,0,0">
+                    <Label DockPanel.Dock="Left" Width="150" Name="lblPreis" Content="Preis"/>
+                    <TextBox Margin="0,0,10,0" DockPanel.Dock="Right" Name="tbPreis" Text="{Binding preis}"/>
+                </DockPanel>
+                <DockPanel Margin="0,4,0,0">
+                    <Button DockPanel.Dock="Left" Margin="30,20,0,0"  Height="40" Name="btnSave" Click="btnSave_Click"  Width="150" Content="Speichern"/>
+                    <Button DockPanel.Dock="Right" Margin="0,20,0,0"  Height="40" Name="btnAdd" Click="btnAdd_Click"  Width="150" Content="Hinzufuegen"/>
+                </DockPanel>
+            </StackPanel>
+        </StackPanel>
+        <Button Grid.Row="1" Grid.Column="0" Name="btnDelete" Click="btnDelete_Click" Width="150" Height="40" Content="Loeschen"/>
+        <Button Grid.Row="1" Grid.Column="1" Name="btnBack" Click="btnBack_Click" Width="150" Height="40" Content="Zuerueck"/>
+    </Grid>
+</Window>

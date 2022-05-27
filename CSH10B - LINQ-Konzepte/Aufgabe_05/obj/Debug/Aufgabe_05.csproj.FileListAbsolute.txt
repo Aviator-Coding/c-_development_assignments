@@ -1,0 +1,13 @@
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\bin\Debug\Aufgabe_05.exe.config
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\bin\Debug\Aufgabe_05.exe
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\bin\Debug\Aufgabe_05.pdb
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.csprojAssemblyReference.cache
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.csproj.CoreCompileInputs.cache
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.exe
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Aufgabe_05\bin\Debug\Aufgabe_05.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Aufgabe_05\bin\Debug\Aufgabe_05.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Aufgabe_05\bin\Debug\Aufgabe_05.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Aufgabe_05\obj\Debug\Aufgabe_05.pdb

@@ -1,0 +1,7 @@
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\bin\Debug\Lektion-03.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\bin\Debug\Lektion-03.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\bin\Debug\Lektion-03.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\obj\Debug\Lektion-03.csprojAssemblyReference.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\obj\Debug\Lektion-03.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\obj\Debug\Lektion-03.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-03\obj\Debug\Lektion-03.pdb

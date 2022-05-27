@@ -1,0 +1,18 @@
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ESA_Projekt.exe
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ESA_Projekt.deps.json
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ESA_Projekt.runtimeconfig.json
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ESA_Projekt.runtimeconfig.dev.json
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ESA_Projekt.dll
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ref\ESA_Projekt.dll
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\ESA_Projekt.pdb
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.AssemblyInfo.cs
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.dll
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ref\ESA_Projekt.dll
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.pdb
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.genruntimeconfig.cache
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\init\LH 3000.init
+D:\CSharp\CSH03\ESA_Projekt\bin\Debug\net5.0\init\LH 500.init
+D:\CSharp\CSH03\ESA_Projekt\obj\Debug\net5.0\ESA_Projekt.csprojAssemblyReference.cache

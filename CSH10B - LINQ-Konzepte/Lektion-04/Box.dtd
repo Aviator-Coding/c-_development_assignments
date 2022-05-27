@@ -1,0 +1,10 @@
+﻿<!ELEMENT box (card)+>
+<!ELEMENT card (keyword+, abstract?, content*, source?, createDate, date?)>
+<!ELEMENT keyword (#PCDATA)>
+<!ELEMENT abstract (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT createDate (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST card subject CDATA #IMPLIED>
+<!ATTLIST content type (titel | text | quote | code | url | image) "text">

@@ -1,0 +1,46 @@
+﻿<Window x:Class="Aufgabe_29_Datenbank.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aufgabe_29_Datenbank"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="661.5" Width="1029.5">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="581" Margin="18,23,0,0" VerticalAlignment="Top" Width="994">
+            <TabItem Header="Artikel">
+                <StackPanel Orientation="Vertical"  ScrollViewer.HorizontalScrollBarVisibility="Visible">
+                    <DataGrid Name="dgArtikel"
+                              ScrollViewer.CanContentScroll="True" 
+                              ScrollViewer.VerticalScrollBarVisibility="Auto"
+                              ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="552"></DataGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Kunden">
+                <StackPanel Orientation="Vertical"  ScrollViewer.HorizontalScrollBarVisibility="Visible">
+                    <DataGrid Name="dgKunden"
+                              ScrollViewer.CanContentScroll="True" 
+                              ScrollViewer.VerticalScrollBarVisibility="Auto"
+                              ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="552"></DataGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Bestellungen">
+                <StackPanel Orientation="Vertical"  ScrollViewer.HorizontalScrollBarVisibility="Visible">
+                    <DataGrid Name="dgBestellungen"
+                              ScrollViewer.CanContentScroll="True" 
+                              ScrollViewer.VerticalScrollBarVisibility="Auto"
+                              ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="552"></DataGrid>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Bestellungen von Kunden">
+                <StackPanel Orientation="Vertical"  ScrollViewer.HorizontalScrollBarVisibility="Visible">
+                    <DataGrid Name="dgBestellungenVonKunden"
+                              ScrollViewer.CanContentScroll="True" 
+                              ScrollViewer.VerticalScrollBarVisibility="Auto"
+                              ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="552"></DataGrid>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

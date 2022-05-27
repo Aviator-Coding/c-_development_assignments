@@ -1,0 +1,20 @@
+C:\Users\r.ettlin\Desktop\CSH10B-20210717T080023Z-001\CSH10B\Lektion-04\bin\Debug\Lektion-04.exe.config
+C:\Users\r.ettlin\Desktop\CSH10B-20210717T080023Z-001\CSH10B\Lektion-04\bin\Debug\Lektion-04.exe
+C:\Users\r.ettlin\Desktop\CSH10B-20210717T080023Z-001\CSH10B\Lektion-04\bin\Debug\Lektion-04.pdb
+C:\Users\r.ettlin\Desktop\CSH10B-20210717T080023Z-001\CSH10B\Lektion-04\obj\Debug\Lektion-04.csproj.CoreCompileInputs.cache
+C:\Users\r.ettlin\Desktop\CSH10B-20210717T080023Z-001\CSH10B\Lektion-04\obj\Debug\Lektion-04.exe
+C:\Users\r.ettlin\Desktop\CSH10B-20210717T080023Z-001\CSH10B\Lektion-04\obj\Debug\Lektion-04.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\bin\Debug\Lektion-04.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\bin\Debug\Lektion-04.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\bin\Debug\Lektion-04.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.csprojAssemblyReference.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH10B - LINQ-Konzepte\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.pdb
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\bin\Debug\Lektion-04.exe.config
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\bin\Debug\Lektion-04.exe
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\bin\Debug\Lektion-04.pdb
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.csprojAssemblyReference.cache
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.csproj.CoreCompileInputs.cache
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.exe
+C:\Users\r.ettlin\Desktop\Solution-20210718T070048Z-001\Solution\CSH10B\Lektion-04\obj\Debug\Lektion-04.pdb

@@ -1,0 +1,15 @@
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\Lektion_02.exe
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\Lektion_02.deps.json
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\Lektion_02.runtimeconfig.json
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\Lektion_02.runtimeconfig.dev.json
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\Lektion_02.dll
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\ref\Lektion_02.dll
+D:\CSharp\CSH03\Lektion_02\bin\Debug\net5.0\Lektion_02.pdb
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.AssemblyInfo.cs
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.dll
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\ref\Lektion_02.dll
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.pdb
+D:\CSharp\CSH03\Lektion_02\obj\Debug\net5.0\Lektion_02.genruntimeconfig.cache

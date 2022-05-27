@@ -1,0 +1,7 @@
+<!ELEMENT kartei (karte+)>
+<!ATTLIST karte sachgebiet CDATA "XML">
+<!ELEMENT karte (stichwort,abstract,autor)> 
+<!ELEMENT stichwort (#PCDATA)>
+<!ELEMENT abstract (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ENTITY autor "Michael Siebert">

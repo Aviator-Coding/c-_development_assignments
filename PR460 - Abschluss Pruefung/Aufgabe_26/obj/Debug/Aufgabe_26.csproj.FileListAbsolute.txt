@@ -1,0 +1,7 @@
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\bin\Debug\Aufgabe_26.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\bin\Debug\Aufgabe_26.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\bin\Debug\Aufgabe_26.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\obj\Debug\Aufgabe_26.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\obj\Debug\Aufgabe_26.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\obj\Debug\Aufgabe_26.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_26\obj\Debug\Aufgabe_26.csprojAssemblyReference.cache

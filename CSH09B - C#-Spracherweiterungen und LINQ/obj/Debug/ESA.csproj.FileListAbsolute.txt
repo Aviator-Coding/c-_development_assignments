@@ -1,0 +1,13 @@
+C:\Users\Sascha\source\repos\CSH09\ESA\bin\Debug\ESA.exe.config
+C:\Users\Sascha\source\repos\CSH09\ESA\bin\Debug\ESA.exe
+C:\Users\Sascha\source\repos\CSH09\ESA\bin\Debug\ESA.pdb
+C:\Users\Sascha\source\repos\CSH09\ESA\obj\Debug\ESA.csprojAssemblyReference.cache
+C:\Users\Sascha\source\repos\CSH09\ESA\obj\Debug\ESA.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\CSH09\ESA\obj\Debug\ESA.exe
+C:\Users\Sascha\source\repos\CSH09\ESA\obj\Debug\ESA.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH09B - C#-Spracherweiterungen und LINQ\ESA\bin\Debug\ESA.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH09B - C#-Spracherweiterungen und LINQ\ESA\bin\Debug\ESA.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH09B - C#-Spracherweiterungen und LINQ\ESA\bin\Debug\ESA.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH09B - C#-Spracherweiterungen und LINQ\ESA\obj\Debug\ESA.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH09B - C#-Spracherweiterungen und LINQ\ESA\obj\Debug\ESA.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\CSH09B - C#-Spracherweiterungen und LINQ\ESA\obj\Debug\ESA.pdb

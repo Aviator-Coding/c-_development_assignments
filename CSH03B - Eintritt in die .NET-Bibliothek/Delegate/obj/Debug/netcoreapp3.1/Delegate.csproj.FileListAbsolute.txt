@@ -1,0 +1,13 @@
+D:\CSharp\CSH03\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+D:\CSharp\CSH03\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+D:\CSharp\CSH03\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+D:\CSharp\CSH03\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+D:\CSharp\CSH03\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+D:\CSharp\CSH03\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+D:\CSharp\CSH03\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

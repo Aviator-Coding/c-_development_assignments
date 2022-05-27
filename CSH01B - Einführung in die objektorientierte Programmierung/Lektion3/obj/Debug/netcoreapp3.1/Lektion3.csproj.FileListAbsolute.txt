@@ -1,0 +1,13 @@
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\bin\Debug\netcoreapp3.1\Lektion3.exe
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\bin\Debug\netcoreapp3.1\Lektion3.deps.json
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\bin\Debug\netcoreapp3.1\Lektion3.runtimeconfig.json
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\bin\Debug\netcoreapp3.1\Lektion3.runtimeconfig.dev.json
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\bin\Debug\netcoreapp3.1\Lektion3.dll
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\bin\Debug\netcoreapp3.1\Lektion3.pdb
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.csprojAssemblyReference.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.AssemblyInfoInputs.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.AssemblyInfo.cs
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.dll
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.pdb
+D:\CSharp\CSH-Lehrgang\CSH01\Lektion3\obj\Debug\netcoreapp3.1\Lektion3.genruntimeconfig.cache

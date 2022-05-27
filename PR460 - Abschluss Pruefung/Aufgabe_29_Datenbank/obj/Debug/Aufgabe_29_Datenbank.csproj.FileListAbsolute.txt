@@ -1,0 +1,17 @@
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\bin\Debug\Aufgabe_29_Datenbank.exe.config
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\bin\Debug\Aufgabe_29_Datenbank.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\bin\Debug\Aufgabe_29_Datenbank.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\LoginScreen.g.cs
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\MainWindow.g.cs
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\App.g.cs
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank_MarkupCompile.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank_MarkupCompile.lref
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\LoginScreen.baml
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\MainWindow.baml
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.g.resources
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.Properties.Resources.resources
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.csproj.GenerateResource.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.csproj.CoreCompileInputs.cache
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.exe
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.pdb
+J:\My Drive\School\SGD - Gepr. C#-Programmierer in (SGD)\PR460 - Abschluss Pruefung\Practical Exam\PR460\Aufgabe_29_Datenbank\obj\Debug\Aufgabe_29_Datenbank.csprojAssemblyReference.cache

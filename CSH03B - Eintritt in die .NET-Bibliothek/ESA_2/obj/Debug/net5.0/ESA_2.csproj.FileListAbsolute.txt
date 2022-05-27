@@ -1,0 +1,16 @@
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ESA_2.exe
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ESA_2.deps.json
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ESA_2.runtimeconfig.json
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ESA_2.runtimeconfig.dev.json
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ESA_2.dll
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ref\ESA_2.dll
+D:\CSharp\CSH03\ESA_2\bin\Debug\net5.0\ESA_2.pdb
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.AssemblyInfoInputs.cache
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.AssemblyInfo.cs
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.csproj.CoreCompileInputs.cache
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.dll
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ref\ESA_2.dll
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.pdb
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.genruntimeconfig.cache
+D:\CSharp\CSH03\ESA_2\obj\Debug\net5.0\ESA_2.csprojAssemblyReference.cache
